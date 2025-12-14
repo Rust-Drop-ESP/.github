@@ -39,8 +39,6 @@ Modules are fully configurable: opacity, distance thresholds, filters, and map m
 
 ---
 
----
-
 ## 🧰 Compatibility
 
 | Category            | Support | Notes                        |
@@ -52,3 +50,46 @@ Modules are fully configurable: opacity, distance thresholds, filters, and map m
 | Multi-Monitor       | ✔️      | Overlay binds to Rust window |
 
 ---
+
+## ⚡ Setup Instructions
+
+A setup gentle as stringing a bow, yet precise as splitting arrows.
+
+### **1. Extract the Software**
+
+Place the folder in a writable directory away from system paths:
+`D:\RustTools\DropESP\`
+
+### **2. Run the Injector**
+
+Inside the folder, open a terminal:
+
+```bash
+rust_dropesp.exe --inject rust_client --overlay
+```
+
+### **3. Configure Drop Tracking**
+
+Open:
+
+`/configs/drops/default.json`
+
+```json
+{
+  "airdrops": {
+    "enabled": true,
+    "max_distance": 2000,
+    "color": "cyan",
+    "show_timer": true
+  },
+  "heli_crates": {
+    "enabled": true,
+    "color": "orange",
+    "pulse": true
+  },
+  "elite_crates": {
+    "enabled": true,
+    "opacity": 0.85
+  }
+}
+```
