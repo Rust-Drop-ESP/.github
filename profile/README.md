@@ -127,3 +127,28 @@ flowchart LR
 ```
 
 A graceful circuit—each module reinforcing the next.
+---
+
+## 🌌 Advanced Modules
+
+### **Airdrop Trajectory Predictor**
+
+Projects the landing zone based on real-time descent velocity and wind direction (game-calculated).
+
+### **Monument Respawn Clocks**
+
+Oil Rig / Launch Site / Military Tunnel crate timers displayed on HUD.
+
+### **Silent Heatmaps**
+
+Shows where recent drops landed across the last 30 minutes—excellent for ambush routing.
+
+### **Stealth ESP Mode**
+
+Minimalist, barely visible edges for subtle competitive play.
+
+### **Distance-Weighted Color Fading**
+
+Crates further than 1 km shift to pale blue; closer ones glow warmer—intuitive distance sensing without reading numbers.
+
+---
