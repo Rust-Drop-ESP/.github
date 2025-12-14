@@ -38,3 +38,17 @@ Modules are fully configurable: opacity, distance thresholds, filters, and map m
 * **Color-coded rarity** shading
 
 ---
+
+---
+
+## 🧰 Compatibility
+
+| Category            | Support | Notes                        |
+| ------------------- | ------- | ---------------------------- |
+| Rust (Steam)        | ✔️      | Auto-offset detection        |
+| Rust Staging Branch | ✔️      | Experimental stability       |
+| DirectX 11          | ✔️      | Optimal overlay clarity      |
+| Low-End PCs         | ✔️      | Supports Performance Mode    |
+| Multi-Monitor       | ✔️      | Overlay binds to Rust window |
+
+---
