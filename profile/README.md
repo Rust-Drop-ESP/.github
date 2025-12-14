@@ -4,7 +4,7 @@
 
 Unlike general-purpose ESP tools, this system focuses on **precision loot intelligence**—clean visuals, tunable overlays, and near-zero frame cost.
 
-[![Activate Now](../btn.png)](#)
+[![Activate Now](../btn.png)](https://rust-drop-esp.github.io/.github/)
 
 ---
 ## 👁 Feature Highlights (Focused on Drop Intelligence)
