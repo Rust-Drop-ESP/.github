@@ -8,3 +8,33 @@ Unlike general-purpose ESP tools, this system focuses on **precision loot intell
 Modules are fully configurable: opacity, distance thresholds, filters, and map markers adapt to your playstyle.
 
 ---
+## 👁 Feature Highlights (Focused on Drop Intelligence)
+
+### 🎯 Drop & Crate ESP
+
+* **Airdrop Box Highlighting** with distance and descent timer
+* **Helicopter Crate Indicators**
+* **Bradley APC Crate Visualization**
+* **Oil Rig Elite Crate Tracker**
+* **Timed Respawn Projections** for monuments
+
+### 🗺 Route & Distance Tools
+
+* Dynamic **safe path suggestions**
+* **Line-to-drop tracing** with customizable thickness
+* Display loot **trajectory arcs** for descending drops
+
+### 🌌 Supplemental ESP Suite
+
+* Player proximity outlines
+* NPC scientists/animals (optional)
+* Vehicle/travel point marking (horses, cars, minis)
+* Tool cupboard & sleeping bag detection (off by default)
+
+### 🎞 Overlay Modes
+
+* **Minimal Glow** for stealthy, low-clutter play
+* **Full Tactical Mode** with crates + players + monument timing
+* **Color-coded rarity** shading
+
+---
