@@ -181,3 +181,32 @@ Designed for rig control sessions:
 * Scientists: On (red)
 * Timer display: On
 * Player ESP: Enhanced skeleton outlines
+---
+
+## ❓ FAQ
+
+### **Does the ESP reduce FPS?**
+
+Usually less than a 2% performance impact. Enable *Performance Mode* if needed.
+
+### **Are crate timers accurate?**
+
+They track internal respawn cycles and are synchronized on each detection event.
+
+### **Can I customize ESP colors?**
+
+Yes—RGB, HEX, opacity, pulse effects, and thickness values.
+
+### **Does it work on community modded servers?**
+
+Most, though some custom plugins alter crate spawn timings.
+
+### **What if overlays disappear after alt-tabbing?**
+
+Use the “Overlay Rebind” hotkey: `CTRL + ALT + R`.
+
+### **Can I share presets?**
+
+Absolutely—config `.json` files can be exported/imported.
+
+---
