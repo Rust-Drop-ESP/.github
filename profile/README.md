@@ -93,3 +93,18 @@ Open:
   }
 }
 ```
+
+### **4. Hotkeys**
+
+| Action              | Default Key    |
+| ------------------- | -------------- |
+| Toggle Drop ESP     | F5             |
+| Cycle Overlay Modes | F7             |
+| Reload Config       | CTRL + ALT + R |
+| Panic Mode          | DEL            |
+
+### **5. Test in a Controlled Session**
+
+Visit Airfield, Trainyard, or Oil Rig to confirm crate highlighting.
+
+---
