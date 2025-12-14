@@ -152,3 +152,32 @@ Minimalist, barely visible edges for subtle competitive play.
 Crates further than 1 km shift to pale blue; closer ones glow warmer—intuitive distance sensing without reading numbers.
 
 ---
+## 🔧 Example Preset Collections
+
+### **1. Solo Ambush Hunter**
+
+A style for quiet stalkers in forests and ridgelines:
+
+* Airdrop ESP: 1500m
+* Elite Crates: On
+* Players: Minimal outlines only
+* Overlay: Stealth Mode
+* Path Tracing: Disabled
+
+### **2. Scrap Runner / Duo Build**
+
+For fast movement and decisive looting:
+
+* Airdrop ESP: 2500m
+* Timers: On
+* Helis/Bradley Crates: Bright Pulse
+* Path Tracing: Enabled
+
+### **3. Oil Rig Dominator**
+
+Designed for rig control sessions:
+
+* Elite Crates: Full highlight
+* Scientists: On (red)
+* Timer display: On
+* Player ESP: Enhanced skeleton outlines
