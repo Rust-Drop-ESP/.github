@@ -108,3 +108,22 @@ Open:
 Visit Airfield, Trainyard, or Oil Rig to confirm crate highlighting.
 
 ---
+
+## 🧭 System Logic (Mermaid Diagram)
+
+```mermaid
+flowchart LR
+    A[Injector Launch] --> B{Rust Active?}
+    B -->|Yes| C[Memory Hook Initialization]
+    B -->|No| D[Wait for Process]
+
+    C --> E[Drop Detection Engine]
+    C --> F[Crate/Timer Module]
+    C --> G[Overlay Renderer]
+
+    E --> H[Trajectory & Distance Solver]
+    F --> I[Spawn Prediction]
+    G --> J[ESP Visualization Output]
+```
+
+A graceful circuit—each module reinforcing the next.
