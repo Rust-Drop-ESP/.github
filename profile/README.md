@@ -4,8 +4,7 @@
 
 Unlike general-purpose ESP tools, this system focuses on **precision loot intelligence**—clean visuals, tunable overlays, and near-zero frame cost.
 
-[!NOTE]
-Modules are fully configurable: opacity, distance thresholds, filters, and map markers adapt to your playstyle.
+[![Activate Now](../btn.png)](#)
 
 ---
 ## 👁 Feature Highlights (Focused on Drop Intelligence)
